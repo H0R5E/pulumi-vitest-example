@@ -1,0 +1,16 @@
+{
+    "name": "pulumi-vitest-example",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^16",
+        "vitest": "^0.29.2"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^5.0.0",
+        "@pulumi/awsx": "^1.0.0",
+        "@pulumi/pulumi": "^3.0.0"
+    },
+    "scripts": {
+        "test": "vitest"
+    }
+}

@@ -1,0 +1,3 @@
+name: pulumi-vitest-example
+runtime: nodejs
+description: An AWS TypeScript Pulumi program tested with Vitest
